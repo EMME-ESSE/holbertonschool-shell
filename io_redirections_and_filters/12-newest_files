@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -t | wc -l  
+ls . -atl | head -10 
